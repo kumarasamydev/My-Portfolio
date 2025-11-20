@@ -72,7 +72,7 @@ export default function About() {
               Front End Developer with a passion for creating impactful applications
             </h3>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              I am a passionate Front End Developer with 2 years of programming experience and professional work. My
+              I am a passionate Front End Developer with 3 years of programming experience and professional work. My
               journey in the world of development has equipped me with a diverse skill set and a deep understanding of
               both frontend technologies.
             </p>

@@ -33,7 +33,7 @@ export default function Hero() {
           <p
             className={`text-lg text-muted-foreground mb-8 max-w-lg leading-relaxed opacity-0 ${isVisible ? "animate-fadeInUp stagger-2" : ""}`}
           >
-            With 2 years of programming experience and professional work. I'm passionate about exploring new
+            With 3 years of programming experience and professional work. I'm passionate about exploring new
             technologies and building impactful applications.
           </p>
 
