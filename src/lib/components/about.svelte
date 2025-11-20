@@ -18,7 +18,7 @@
           Front-End Developer with a passion for creating impactful applications
         </h3>
         <p class="text-lg text-muted-foreground leading-relaxed">
-          I am a passionate Front-End Developer with 2 years of experience specializing in building 
+          I am a passionate Front-End Developer with 3 years of experience specializing in building 
           responsive, user-friendly web applications. My journey in development has equipped me with 
           a diverse skill set and deep understanding of modern frontend technologies.
         </p>

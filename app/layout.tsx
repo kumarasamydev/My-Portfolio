@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Kumarasamy Nagaraj - Front End Developer Portfolio",
   description:
-    "Creative Front-End Developer with 2 years of experience in developing visually appealing and high-converting landing pages. Skilled in HTML, CSS, JavaScript, React, and Tailwind CSS.",
+    "Creative Front-End Developer with 3 years of experience in developing visually appealing and high-converting landing pages. Skilled in HTML, CSS, JavaScript, React, and Tailwind CSS.",
   keywords: ["Front End Developer", "React Developer", "Next.js", "TypeScript", "Portfolio"],
     generator: 'v0.app'
 }

@@ -24,7 +24,7 @@
         </div>
         
         <p class="text-lg text-muted-foreground leading-relaxed">
-          Creative Front-End Developer with 2 years of experience in developing visually appealing and high-converting landing pages. 
+          Creative Front-End Developer with 3 years of experience in developing visually appealing and high-converting landing pages. 
           Skilled in HTML, CSS, JavaScript, React, and Tailwind CSS.
         </p>
 

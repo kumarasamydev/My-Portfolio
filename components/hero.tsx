@@ -58,7 +58,7 @@ export default function Hero() {
               size='icon'
               className='rounded-lg border border-border hover:border-purple-600 hover:bg-purple-50 transition-all'>
               <a
-                href='https://github.com'
+                href='https://github.com/kumarasamydev'
                 target='_blank'
                 rel='noopener noreferrer'>
                 <Github className='w-5 h-5' />
@@ -71,7 +71,7 @@ export default function Hero() {
               size='icon'
               className='rounded-lg border border-border hover:border-purple-600 hover:bg-purple-50 transition-all'>
               <a
-                href='https://linkedin.com'
+                href='https://www.linkedin.com/in/kumarasamy-nagaraj/'
                 target='_blank'
                 rel='noopener noreferrer'>
                 <Linkedin className='w-5 h-5' />
